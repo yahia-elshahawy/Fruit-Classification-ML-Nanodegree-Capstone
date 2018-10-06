@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For my Udacity Machine Learning Capstone project I chose to implement a Fruit classifier that predicts the label of the input image.
+For my Udacity Machine Learning Capstone project I chose to implement a Fruit classifier that predicts the label of the input frut image.
 
 
 ## Reports
@@ -16,11 +16,11 @@ For my Udacity Machine Learning Capstone project I chose to implement a Fruit cl
 
 - 2- Tuning CNN.ipynb : has implementation of 3 different tuning for basic CNN model
 
-- 3- Tuned CNN with Image Augmentation.ipynb : has image augmentation with one of tuned CNN models
+- 3- Tuned CNN with Image Augmentation.ipynb : has image augmentation with one of the tuned CNN models
 
-- 4- Transfer Learning with Image Augmentation.ipynb : has two implementation of transfer learning one with pretrained weights and other using random weights(both are Xception models)
+- 4- Transfer Learning with Image Augmentation.ipynb : has two implementation of transfer learning one with pretrained weights and another one using random weights(both are Xception models)
 
-Note that the code is runned on Kaggle not locally on jupyter notebook 
+Note that the code is run on Kaggle not locally on jupyter notebook 
 
 ## Input files
 
